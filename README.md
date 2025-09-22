@@ -101,3 +101,6 @@ This Tableau dashboard offers a **comprehensive overview of employee attrition**
 By analyzing workforce demographics, satisfaction, and compensation, the tool supports **strategic retention planning** and reduces the costs associated with high turnover.  
 
 ---
+## 🌐 Live Demo  
+Check out the interactive dashboard here:  
+👉 [Employee Attrition Analysis Dashboard](https://public.tableau.com/app/profile/shivam.dhale4541/viz/mainfileofPeopleAnalyticsAttritionTracker/Dashboard1)  
